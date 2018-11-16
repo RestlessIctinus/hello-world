@@ -4,4 +4,4 @@ This project serves as a basic guide for working with  GitHub. It is based on th
 Now, let us update this file by adding some notes. Again , the purpose is to understand how the whole think works
 
 
-tHIS IS THE SECONF TIME CREATING A BRANCH
+THIS IS THE SECOND TIME CREATING A BRANCH
